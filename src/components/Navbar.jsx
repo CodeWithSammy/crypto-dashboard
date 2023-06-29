@@ -56,7 +56,7 @@ const Navbar = () => {
 
         <div className="flex flex-col w-full p-4">
           <Link to="/signin">
-            <button className="w-full my-2 p-3 bg-primary text-primary text-primary border border-secondary rounded-2xl shadow-xl">
+            <button className="w-full my-2 p-3 bg-primary text-primary  border border-secondary rounded-2xl shadow-xl">
               Sign In
             </button>
           </Link>
